@@ -1,1 +1,1 @@
-# rnadompass
+# random password generator
