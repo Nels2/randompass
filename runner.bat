@@ -1,1 +1,1 @@
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './test.ps1'"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './passwdgenfunc.ps1'"
